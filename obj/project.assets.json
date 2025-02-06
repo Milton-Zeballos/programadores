@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\prograTres\\programadores\\proyecto1\\proyecto1.csproj",
+      "projectUniqueName": "D:\\git-tarea\\programadores\\proyecto1.csproj",
       "projectName": "proyecto1",
-      "projectPath": "D:\\prograTres\\programadores\\proyecto1\\proyecto1.csproj",
+      "projectPath": "D:\\git-tarea\\programadores\\proyecto1.csproj",
       "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-      "outputPath": "D:\\prograTres\\programadores\\proyecto1\\obj\\",
+      "outputPath": "D:\\git-tarea\\programadores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
